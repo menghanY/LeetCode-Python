@@ -7,8 +7,3 @@ class Solution(object):
             tSum += tNum % 10
             tNum = tNum // 10
         return self.addDigits(tSum)
-
-
-
-s = Solution()
-print(s.addDigits(999))
