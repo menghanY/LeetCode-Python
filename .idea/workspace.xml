@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da42410a-f229-4c03-b568-220f46eb0ed9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DeleteNodeInALinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntersectionOfTwoArrays.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode-python.iws" />
@@ -43,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeleteNodeInALinkedList.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DeleteNodeInALinkedList.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeleteNodeInALinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntersectionOfTwoArrays.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -101,6 +111,7 @@
         <option value="$PROJECT_DIR$/RansomNote.py" />
         <option value="$PROJECT_DIR$/FindTheDifference.py" />
         <option value="$PROJECT_DIR$/DeleteNodeInALinkedList.py" />
+        <option value="$PROJECT_DIR$/IntersectionOfTwoArrays.py" />
       </list>
     </option>
   </component>
@@ -111,8 +122,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="786" />
-    <option name="y" value="139" />
+    <option name="x" value="1013" />
+    <option name="y" value="305" />
     <option name="width" value="1237" />
     <option name="height" value="777" />
   </component>
@@ -498,7 +509,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="786" y="139" width="1237" height="777" extended-state="0" />
+    <frame x="1013" y="305" width="1237" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18350849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -843,6 +854,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
           <folding />
         </state>
       </provider>
