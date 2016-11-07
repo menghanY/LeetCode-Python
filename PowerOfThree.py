@@ -2,7 +2,6 @@ import math
 class Solution(object):
     def isPowerOfThree1(self, n):
         return math.log10(n) // math.log10(3) % 1 == 0
-
     def isPowerOfThree2(self, n):
         """
         :type n: int
