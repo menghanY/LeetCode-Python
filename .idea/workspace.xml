@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da42410a-f229-4c03-b568-220f46eb0ed9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Number/ClimbingStairs.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Number/ClimbingStairs.py" afterPath="$PROJECT_DIR$/Number/ClimbingStairs.py" />
     </list>
     <ignored path="leetcode-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +46,8 @@
       <file leaf-file-name="ClimbingStairs.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Number/ClimbingStairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -111,8 +111,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="320" />
-    <option name="y" value="23" />
+    <option name="x" value="532" />
+    <option name="y" value="35" />
     <option name="width" value="960" />
     <option name="height" value="777" />
   </component>
@@ -581,7 +581,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="23" width="960" height="777" extended-state="0" />
+    <frame x="532" y="35" width="960" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.309375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -636,7 +636,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -986,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Number/ClimbingStairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>
