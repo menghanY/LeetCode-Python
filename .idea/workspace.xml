@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da42410a-f229-4c03-b568-220f46eb0ed9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/ReverseLinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Number/ArrangingCoins.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedList/ReverseLinkedList.py" afterPath="$PROJECT_DIR$/LinkedList/ReverseLinkedList.py" />
     </list>
     <ignored path="leetcode-python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,11 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseLinkedList.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseLinkedList.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkedList/ReverseLinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="21">
+              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrangingCoins.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Number/ArrangingCoins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -116,6 +127,7 @@
         <option value="$PROJECT_DIR$/Array/IntersectionOfTwoArraysII.py" />
         <option value="$PROJECT_DIR$/Array/PlusOne.py" />
         <option value="$PROJECT_DIR$/LinkedList/ReverseLinkedList.py" />
+        <option value="$PROJECT_DIR$/Number/ArrangingCoins.py" />
       </list>
     </option>
   </component>
@@ -126,7 +138,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="43" />
+    <option name="x" value="711" />
     <option name="y" value="23" />
     <option name="width" value="1877" />
     <option name="height" value="1057" />
@@ -156,7 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,7 +259,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -616,7 +628,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="23" width="1877" height="1057" extended-state="6" />
+    <frame x="711" y="23" width="1877" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16462441" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -677,7 +689,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tree/MaximumDepthOfBinaryTree.py" />
     <entry file="file://$PROJECT_DIR$/Array/ZigZagConversion.py" />
     <entry file="file://$PROJECT_DIR$/Number/PalindromeNumber.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -917,8 +928,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/ReverseLinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="21">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Number/ArrangingCoins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
           <folding />
         </state>
       </provider>
