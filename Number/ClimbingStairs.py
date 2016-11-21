@@ -16,7 +16,7 @@ class Solution(object):
             numN_2 = numN_1
             numN_1 = result
         return result
-    
+
     def climbStairs2(self,n):
         dp = {0:1,1:1}
         for x in range(2,n + 1) :
