@@ -13,5 +13,3 @@ class Solution(object):
         return result if abs(result)< 2147483648 else 0
 
 s = Solution()
-print(s.reverse(1534236469))
-print(s.reverse(-153423))
