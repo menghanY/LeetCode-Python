@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/count-primes/
 # Count the number of prime numbers less than a non-negative number, n.
+
+# https://discuss.leetcode.com/topic/65044/python-beat-99-97-with-idea-discription
 def countPrimes(self, n):
     if n <= 2 : return 0
     res = 1
