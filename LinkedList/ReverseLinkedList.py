@@ -1,9 +1,6 @@
 # https://leetcode.com/problems/reverse-linked-list/
 # Reverse a singly linked list.
-class ListNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.next = None
+from ListNode import ListNode
 class Solution(object):
     def reverseList1(self, head):
         reversedHead,pPrev = None,None

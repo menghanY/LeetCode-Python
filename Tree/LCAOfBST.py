@@ -1,10 +1,6 @@
 # https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
-class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
+from TreeNode import TreeNode
 # https://discuss.leetcode.com/topic/58081/simple-python-solution
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):

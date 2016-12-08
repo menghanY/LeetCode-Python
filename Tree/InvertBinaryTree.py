@@ -1,11 +1,6 @@
 # https://leetcode.com/problems/invert-binary-tree/
 # Definition for a binary tree node.
-class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
-
+from TreeNode import TreeNode
 class Solution(object):
     def invertTree1(self, root):
 

@@ -7,12 +7,7 @@
 # The path does not need to start or end at the root or a leaf, but it must go downwards (traveling only from parent nodes to child nodes).
 #
 # The tree has no more than 1,000 nodes and the values are in the range -1,000,000 to 1,000,000.
-class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
-
+from TreeNode import TreeNode
 class Solution(object):
     def pathSum1(self, root, target):
         self.count = 0

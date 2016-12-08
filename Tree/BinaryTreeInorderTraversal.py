@@ -10,12 +10,7 @@
 #    3
 # return [1,3,2]
 # https://discuss.leetcode.com/topic/14640/simple-python-iterative-solution-by-using-a-visited-flag-o-n-56ms/2
-class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
-
+from TreeNode import TreeNode
 class Solution(object):
     def inorderTraversal(self, root):
         result,stack = [],[(root,False)]

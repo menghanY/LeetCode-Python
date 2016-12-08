@@ -2,11 +2,7 @@
 #
 # You should try to do it in place. The program should run in O(1) space complexity and O(nodes) time complexity.
 
-class ListNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.next = None
-
+from ListNode import ListNode
 class Solution(object):
     # def oddEvenList(self, head):
     #     oddListNode,evenListNode = None,None

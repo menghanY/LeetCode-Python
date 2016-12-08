@@ -1,12 +1,7 @@
 # Definition for a binary tree node.
 
 # https://discuss.leetcode.com/topic/50229/python-simple-non-dfs-solution-commented
-class TreeNode:
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
-
+from TreeNode import TreeNode
 class Solution:
 
     def __init__(self):

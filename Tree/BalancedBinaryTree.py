@@ -3,12 +3,7 @@
 #
 # For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 # Definition for a binary tree node.
-class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
-
+from TreeNode import TreeNode
 class Solution(object):
     def isBalanced1(self, root):
         def TreeDepth(nodeRoot):
