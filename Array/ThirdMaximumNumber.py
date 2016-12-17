@@ -25,7 +25,7 @@ class Solution(object):
             elif n > max:
 
                 max3 = n
-                
+
         return max3 if max3 != -sys.maxsize - 1 else max
 
 
