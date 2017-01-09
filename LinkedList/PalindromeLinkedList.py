@@ -9,7 +9,8 @@ class Solution(object):
             slow = slow.next
             fast = fast.next.next
 
-        last,pre = slow.next,head
+        last = slow.next
+        pre = head
         while last.next :
             temp = last.next
             last.next = temp.next
