@@ -3,16 +3,12 @@ from ListNode import ListNode
 class Solution(object):
     def reverseBetween(self, head, m, n):
         hat = ListNode(0)
-        hat.next = head
-        start = hat
+        hat.next, start = head, hat
 
-        for _ in range(m):
-            beforeStart = start
-            start = start.next
+        for i in range(m):
+            beforeStart, start = start, start.next
 
-        for _ in range(n - m):
-            beforeStart.next = start.next
-            start.next =  start.next.next
-            beforeStart.next.next =  beforeStart.next
+        for i in range(n - m):
+            beforeStart.next, start.next, beforeStart.next.next = start.next, start.next.next, beforeStart.next
 
         return hat.next
